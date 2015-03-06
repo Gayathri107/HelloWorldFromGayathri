@@ -1,6 +1,7 @@
 # HelloWorldFromGayathri
 My First Repository 
-Hello MOOC 
+Hi Hello MOOC 
 Happy Learning
+Good Luck
 Have A  Great Year Ahead
 Welcome to DSS course
